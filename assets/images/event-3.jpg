@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <linearGradient id="grad7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0057B8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#003A7A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#grad7)"/>
+  <circle cx="400" cy="300" r="130" fill="rgba(255,255,255,0.15)"/>
+  <rect x="200" y="480" width="400" height="120" fill="rgba(255,255,255,0.12)" rx="20"/>
+  <text x="400" y="350" font-size="110" font-weight="bold" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-family="Arial">📚</text>
+  <text x="400" y="530" font-size="48" text-anchor="middle" fill="rgba(255,255,255,0.9)" font-family="Arial">IEEE CONGRESS</text>
+  <text x="400" y="580" font-size="22" text-anchor="middle" fill="rgba(255,255,255,0.7)" font-family="Arial">Annual Mega Event 2023</text>
+</svg>
